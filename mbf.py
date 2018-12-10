@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Missing Frace Finder by Andrew Fan
+# Missing Brace Finder by Andrew Fan
 # Hastily thrown together on Dec 9, 2018
 # Not guaranteed to work; use at your own risk
 # MIT License
